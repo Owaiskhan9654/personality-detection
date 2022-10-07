@@ -58,6 +58,7 @@ python conv_layer_train.py -static -word2vec 2
 ```
 
 
+
 ## Citation
 
 If you use this code in your work then please cite the paper - [Deep Learning-Based Document Modeling for Personality Detection from Text](http://sentic.net/deep-learning-based-personality-detection.pdf) with the following:
